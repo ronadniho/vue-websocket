@@ -1,2 +1,0 @@
-# vue-websocket
-vue-websocket

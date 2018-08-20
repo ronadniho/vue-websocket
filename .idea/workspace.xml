@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb0e77a3-7fe3-45d1-bdde-6a2c003c858f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/websocket/ch3/client.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="e#714#1530#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/websocket/ch3/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <folding>
+                <element signature="e#1663#2163#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/websocket/ch3/server.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/websocket/ch3/client.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/websocket/ch4/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/finalhandler/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/node-uuid/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/base64id/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/node_modules/utf8/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/options/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/engine.io/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/has-binary/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/has-binary/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-adapter/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/backo2/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/component-bind/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/component-inherit/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/after/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/blob/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/has-binary/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/node_modules/utf8/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/engine.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/has-cors/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parsejson/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parsejson/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parsejson/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/parseqs/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/options/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/xmlhttprequest-ssl/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/yeast/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/engine.io-client/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/object-component/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/node_modules/better-assert/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/parseuri/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/node_modules/to-array/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-client/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-parser/node_modules/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-parser/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-parser/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/node_modules/socket.io-parser/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/socket.io/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/node_modules/faye-websocket/node_modules/websocket-driver/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/node_modules/faye-websocket/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/ws/node_modules/options/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/ws/node_modules/ultron/package.json" />
+      <path value="$PROJECT_DIR$/websocket/node_modules/ws/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="878" />
+    <option name="y" value="27" />
+    <option name="width" value="1436" />
+    <option name="height" value="914" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="websocket_socketIo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websocket_socketIo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="websocket_socketIo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websocket_socketIo" type="462c0819:PsiDirectoryNode" />
+              <item name="websocket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="websocket_socketIo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="websocket_socketIo" type="462c0819:PsiDirectoryNode" />
+              <item name="websocket" type="462c0819:PsiDirectoryNode" />
+              <item name="ch3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lx/nodeWebsocket" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.start3">
+    <configuration name="start1" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start1" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="start2" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start2" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="start3" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start3" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration name="start4" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start4" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start4" />
+      <item itemvalue="npm.start3" />
+      <item itemvalue="npm.start2" />
+      <item itemvalue="npm.start1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start3" />
+        <item itemvalue="npm.start2" />
+        <item itemvalue="npm.start1" />
+        <item itemvalue="npm.start4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb0e77a3-7fe3-45d1-bdde-6a2c003c858f" name="Default" comment="" />
+      <created>1533533175627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533533175627</updated>
+      <workItem from="1533533176849" duration="469000" />
+      <workItem from="1533533672197" duration="3792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4261000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50631136" visible="true" weight="0.15591966" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32922733" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info id="Structure" order="1" sideWeight="0.49368864" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32922733" />
+      <window_info id="Favorites" order="2" sideWeight="0.50209206" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39977604" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/ch3/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#1663#2163#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/ch4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="10" column="65" lean-forward="true" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/ch2/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/ch2/client.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/ch4/server.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/ch3/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="e#1663#2163#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/websocket/ch3/client.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#714#1530#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
